@@ -1,15 +1,15 @@
 import React from "react";
 
-import Navbar from "./assets/components/Navbar";
-import Hero from "./assets/components/Hero";
-import Stats from "./assets/components/Stats";
-import Business from "./assets/components/Business";
-import Biling from "./assets/components/Biling";
-import CardDeal from "./assets/components/CardDeal";
-import Testimonials from "./assets/components/Testimonials";
-import Clients from "./assets/components/Clients";
-import CTA from "./assets/components/CTA";
-import Footer from "./assets/components/Footer";
+import Navbar from "./components/Navbar";
+import Hero from "./components/Hero";
+import Stats from "./components/Stats";
+import Business from "./components/Business";
+import Biling from "./components/Biling";
+import CardDeal from "./components/CardDeal";
+import Testimonials from "./components/Testimonials";
+import Clients from "./components/Clients";
+import CTA from "./components/CTA";
+import Footer from "./components/Footer";
 
 import styles from "./style";
 
