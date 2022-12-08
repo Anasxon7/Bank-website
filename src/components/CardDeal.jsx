@@ -12,9 +12,7 @@ const CardDeal = () => {
           Arcu tortorm purus in mattis at sed interger faucibus.
           Aliquet quis aliquet eget mauris tortor. c Aliquet eltrices
           ac, ametau.</p>
-
       <Button styles='mt-10' />
-
       </div>
 
       <div className={layout.sectionImg}>
