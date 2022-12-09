@@ -23,17 +23,12 @@
 }
 /* Track */
 ::-webkit-scrollbar-track {
-  background: linear-gradient(
-    144.39deg,
-    #ffffff -278.56%,
-    #6d6d6d -78.47%,
-    #11101d 91.61%
-  );
+  background: #14101d;
 }
 
 /* Handle */
 ::-webkit-scrollbar-thumb {
-  background: #14101d;
+  background: linear-gradient(180deg, rgba(188, 165, 255, 0) 0%, #214d76 100%);
   border-radius: 10px;
 }
 
