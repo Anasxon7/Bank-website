@@ -35,7 +35,6 @@ const App = () => (
           <Biling />
           <CardDeal  />
           <Testimonials /> 
-          
           <Clients />
           <CTA />
           <Footer />
